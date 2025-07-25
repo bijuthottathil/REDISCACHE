@@ -1,4 +1,4 @@
-# Implementation of Redis Cache to show case the performance improvment while accessing Postgres Data
+# Implementation of Redis Cache to show  the performance improvement while accessing Postgres Data
 
 <img width="624" height="768" alt="image" src="https://github.com/user-attachments/assets/0808bdb5-4c52-464a-9785-e28565d1a811" />
 
